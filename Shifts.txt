@@ -1,0 +1,45 @@
+OC = On Call
+N = North (this covers 144th only)
+SAH = St. Anthony Hospital (this covers only SAH shifts)
+FLOAT = goes everywhere and anywhere needed
+
+0700-1730
+0700-1730
+
+0700-1530
+
+OC 0700-1530
+
+
+1400-0030
+1400-0030
+1400-0030
+
+OC 1500-2330
+
+1600-0230 FLOAT
+
+OC 1700-2330
+
+NOC 1800-0430
+
+OC 1800-0030
+
+OC 2230-0700
+
+
+SAH
+
+0600-1830
+
+1530-0330
+
+
+SAN
+
+0600-1630
+
+OC 0700-1330
+
+1400-0030
+
